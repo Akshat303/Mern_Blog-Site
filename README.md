@@ -1,15 +1,15 @@
 
 # MERN Blog Site
 
-The blogging project is a client-server Web application built over an MERN.  Blogging, short for web logging, is an application that runs on a portal site, in which different user can publish and revise daily journal entries, and these entries will be made public for others to view.  In essence, it gives everyone his or her own personal editorial column to publish to the world.
+The blogging project is a client-server Web application built over a MERN.  Blogging, short for web logging, is an application that runs on a portal site, in which different users can publish and revise daily journal entries, and these entries will be made public for others to view.  In essence, it gives everyone his or her own personal editorial column to publish to the world.
 
 
 ## Installation
 
-Install my-project with yarn
+Install my project with yarn
 
 ```bash
-  Clone this project from git repository
+  Clone this project from the git repository
   cd project-file
   yarn add
   cd .\client\
@@ -26,27 +26,27 @@ Run our Mern Blog Site Project with yarn, run the following command
   nodemon .\index.js
   ```
   **Server:**
-```Server
-  Run & connect MongoDb Compass
+``` Server
+  Run & connect MongoDB Compass
   cd .\client\
   yarn start
   ```
   **Database:**
   ```Database
-  MongoDb Compass
+  MongoDB Compass
   Db Name : mern-blog-site
-  Collection Name : posts, & users
+  Collection Name: posts, & users
   ```
 
 
 
 ## MERN STACK
 
-**Client:** React, Css, JavaScript.
+**Client:** React, CSS, JavaScript.
 
 **Server:** Node, Express.
 
-**DataBase:** MongoDb.
+**DataBase:** MongoDD.
 
 
 ## Screenshots
